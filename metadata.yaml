@@ -1,16 +1,21 @@
 _repo: Le-Grand-Silence-Blanc-Roman-vecu-d-Alaska_63260
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Lichtenberger, André
     gutenberg_agent_id: '52352'
     url: http://www.gutenberg.org/2009/agents/52352
+covers:
+- cover_type: archival
+  image_path: 63260-h/images/cover.jpg
 creator:
   author:
     agent_name: Rouquette, Louis-Frédéric
     gutenberg_agent_id: '52351'
     url: http://www.gutenberg.org/2009/agents/52351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63260#Le-Grand-Silence-Blanc-Roman-vecu-d-Alaska
 gutenberg_issued: '2020-09-22'
 gutenberg_type: Text
 identifiers:
